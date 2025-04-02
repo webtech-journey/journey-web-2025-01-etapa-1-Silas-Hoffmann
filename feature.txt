@@ -1,1 +1,2 @@
-Feature B - Different content
+Feature A - Line 1
+Feature A - Line 2
